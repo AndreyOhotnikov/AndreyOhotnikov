@@ -7,7 +7,7 @@
 ---
 ### Контакты:
 
-[<img align="left" alt="Andrey | www.linkedin.com/in/AndreyOhotnikov-690a2b219" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][www.linkedin.com/in/AndreyOhotnikov-690a2b219]
-[<img align="left" alt="Andrey | https://t.me/krages78" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][https://t.me/krages78]
+[<img align="left" alt="Andrey | linkedin" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][www.linkedin.com/in/AndreyOhotnikov-690a2b219]
+[<img align="left" alt="Andrey | telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][https://t.me/krages78]
 
 
