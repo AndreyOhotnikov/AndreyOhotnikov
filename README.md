@@ -10,7 +10,7 @@
 [<img align="left" alt="Andrey | linkedin" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-logo-design-30.png" />][linkedin]
 [<img align="left" alt="Andrey | telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 
-
+<br/>
 
 ---
 
@@ -29,13 +29,13 @@
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 
 ---
-<br/>
+
 
 - **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, MaterialUI
 - **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
-
+<br/>
 ---
 ### GitHub cтатистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyOhotnikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AndreyOhotnikov)
