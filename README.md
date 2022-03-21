@@ -32,12 +32,10 @@
 
 ---
 
-
 - **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, MaterialUI
 - **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
-- 
 <br/>
 
 ---
