@@ -36,7 +36,8 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
 
-<br/>
+
+
 ---
 
 ### GitHub cтатистика:
