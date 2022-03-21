@@ -28,6 +28,8 @@
 [<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
 [<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 
+<br/>
+
 ---
 
 
@@ -35,8 +37,11 @@
 - **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
+- 
 <br/>
+
 ---
+
 ### GitHub cтатистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyOhotnikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AndreyOhotnikov)
 
