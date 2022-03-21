@@ -31,15 +31,12 @@
 <br/>
 
 ---
-
 - **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, MaterialUI
 - **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
 <br/>
-
 ---
-
 ### GitHub cтатистика:
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyOhotnikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AndreyOhotnikov)
 
