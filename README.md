@@ -2,7 +2,7 @@
 ### Меня зовут Андрей, я frontend разработчик!
 
 - Интересуюсь web-разработкой, автомобилями, путешествиями
-- Планирую изучать TypeScript, Next.js
+- Планирую освоить TypeScript, Next.JS, React-native
 - Как связаться: ququruq@gmail.com
 ---
 ### Контакты:
@@ -31,7 +31,7 @@
 <br/>
 
 ---
-- **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, MaterialUI
+- **Фронтенд**: JS, React, Redux, HTML5, CSS3, Bootstrap, MaterialUI, Ajax
 - **Бэкенд**: Node.js, Express, CORS, WebSockets, hbs
 - **Базы данных**: PostgreSQL, Sequelize ORM, Redis
 - **Прочее**: Jest, REST, CRUD, Postman
