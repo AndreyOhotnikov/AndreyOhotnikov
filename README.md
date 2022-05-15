@@ -41,8 +41,9 @@
 ---
 
 ### GitHub cтатистика:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyOhotnikov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/AndreyOhotnikov)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyOhotnikov&hide=issues&count_private=true&show_icons=true&theme=nightowl&card_width=500)](https://github.com/AndreyOhotnikov)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=nightowl&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [linkedin]: www.linkedin.com/in/AndreyOhotnikov-690a2b219
